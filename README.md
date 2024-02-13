@@ -16,7 +16,7 @@ Hi 👋, I Am Francesco
 
  <table><tr><td valign="top" width="50%">
    
-<a href="https://dev.to/francescoxx"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEV" width="25"/></a>   Recent Articles on DEV.to     
+## <a href="https://dev.to/francescoxx"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEV" width="25"/></a>   Recent Articles on DEV.to     
  <!-- DEVTO-BLOG-LIST:START -->
 - [Control flow in Rust](https://dev.to/something)
 - [Functions in Rust: a good introduction](https://dev.to/something)
