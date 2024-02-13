@@ -10,10 +10,9 @@ Hi 👋, I Am Francesco
 - Currently Developer Advocate at [daily.dev](https://daily.dev) 
 - I have created a [Cool Community of Content Creators](https://discord.com/invite/cRjhjFRRre) to help each other and stand out in the world of content creation.
 - Sign up to my [Newsletter](https://www.getrevue.co/profile/francescociull4) to stay up-to-date with important upcoming events
-</td>
+</td></tr></table>
 
- <table><tr><td valign="top" width="50%">
-   
+<table><tr><td valign="top" width="50%">
 ## <a href="https://dev.to/francescoxx"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEV" width="25"/></a>   Recent Articles on DEV.to     
  <!-- DEVTO-BLOG-LIST:START -->
 - [Control flow in Rust](https://dev.to/something)
