@@ -1,5 +1,7 @@
-<table><tr><td valign="top" width="75%">
+
 <!--
+<table><tr><td valign="top" width="75%">
+ <table><tr><td valign="top" width="50%">
  <td valign="top" width="25%">
 -->
 Hi 👋, I Am Francesco
@@ -14,7 +16,7 @@ Hi 👋, I Am Francesco
 </td></tr></table>
 
 
- <table><tr><td valign="top" width="50%">
+
    
 ## <a href="https://dev.to/francescoxx"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEV" width="25"/></a>   Recent Articles on DEV.to     
  <!-- DEVTO-BLOG-LIST:START -->
