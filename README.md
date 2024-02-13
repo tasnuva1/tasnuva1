@@ -1,6 +1,7 @@
 <table><tr><td valign="top" width="75%">
-# <td valign="top" width="25%">
-
+<!--
+ <td valign="top" width="25%">
+-->
 Hi 👋, I Am Francesco
 
 - I am a Computer Scientist interested in **Web3.**
@@ -12,21 +13,10 @@ Hi 👋, I Am Francesco
 - Sign up to my [Newsletter](https://www.getrevue.co/profile/francescociull4) to stay up-to-date with important upcoming events
 </td></tr></table>
 
-<table><tr><td valign="top" width="50%">
-## <a href="https://dev.to/francescoxx"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEV" width="25"/></a>   Recent Articles on DEV.to     
- <!-- DEVTO-BLOG-LIST:START -->
-- [Control flow in Rust](https://dev.to/something)
-- [Functions in Rust: a good introduction](https://dev.to/something)
-- [Rust Data Types](https://dev.to/something)
-- [Variables, Shadowing, and Constants in Rust](https://dev.to/something)
-- [Rust 🦀 Installation + Hello World](https://dev.to/francescoxx/something)
-<!-- DEVTO-BLOG-LIST:END -->
-
-</td></tr></table>
 
  <table><tr><td valign="top" width="50%">
    
-## <a href="https://dev.to/francescoxx"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEV" width="25"/></a>   Recent Articles on DEV.to     
+<a href="https://dev.to/francescoxx"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEV" width="25"/></a>   Recent Articles on DEV.to     
  <!-- DEVTO-BLOG-LIST:START -->
 - [Control flow in Rust](https://dev.to/something)
 - [Functions in Rust: a good introduction](https://dev.to/something)
