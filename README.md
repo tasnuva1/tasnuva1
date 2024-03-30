@@ -4,6 +4,8 @@
  <table><tr><td valign="top" width="50%">
  <td valign="top" width="25%">
 -->
+Note: This information is not real. These experiences are just my goals to achieve. 
+
 Hi 👋, I Am Francesco
 
 - I am a Computer Scientist interested in **Web3.**
