@@ -8,7 +8,7 @@ Note: This information is not real. These experiences are just my goals to achie
 
 Hi 👋, I Am Francesco
 
-- I am a Computer Scientist interested in **Web3.**
+- I currently intrested in **Web3.**
 - I have worked from 2017 to 2020 on the [Copernicus project](https://en.wikipedia.org/wiki/Copernicus_Programme) for the European Space Agency 🛰.
 - [Docker Captain](https://www.docker.com/captains/francesco-ciulla) since June 2021, and guest on the official [Docker Youtube channel](https://youtu.be/QFl0EFGr5e4).
 - I have interviewed 180+ Developers in my [YouTube Channel](https://youtu.be/Wh6r6xHPEIg). 
